@@ -1,0 +1,2 @@
+git stash apply :> this command leaves the topmost stash on the stash list so we can use it later.
+git stash pop ;> this command removes latest or topmost stash.
